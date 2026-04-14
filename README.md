@@ -20,8 +20,9 @@ _________________________________________________
 
 ### Quick Install
 
+(Change 'user' with your username)
 ```bash
-cd "/home/'user'/Downloads/Open Clock Fluid" (Change 'user' with your username)
+cd "/home/'user'/Downloads/Open Clock Fluid" 
 ./install.sh
 ```
 
